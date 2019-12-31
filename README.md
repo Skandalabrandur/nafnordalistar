@@ -16,6 +16,7 @@ Nafnorðalista Bín vann ég úr CSV Skrá sigrúnarsniðsins þar sem orð voru
 
 Hver skrá hefur höfuð með grunnupplýsingum.
 Þar á eftir fylgja orð sem ber saman við nafnorðalista BÍN raðað eftir tíðni; ásamt tíðnitölu þeirra.
+Fjöldi orða takmarkast við 10 þúsund.
 
 ## Marktæki
 
