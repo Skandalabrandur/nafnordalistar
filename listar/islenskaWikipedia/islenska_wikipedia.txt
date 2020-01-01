@@ -1,5 +1,5 @@
 Unnið úr skrá: iswiki-20191220-pages-meta-current.xml
-Heildarfjöldi orða úr orðasafni: 1021584
+Heildarfjöldi orða úr orðasafni: 987507
 Orð                           Tíðni
 -----------------------------------
 á                             138195
