@@ -24,6 +24,13 @@ Fjöldi orða takmarkast við 10 þúsund.
 
 Ég kýs að skilja listana eftir á þessu formi þar sem auðvelt ætti að vera fyrir hvern og einn að vinna úr þeim.
 
+### Dæmi um úrvinnslu sniðs
+
+#### Bash - .txt yfir í .csv
+
+`tail -n +5 islenska_wikipedia.txt | tr -s ' ' | sed 's/ /,/g' > islenska_wikipedia.csv`
+
+
 ## Marktæki
 
 Engin samhengisgreining er gerð á notkun orða. T.d. má huga að orðinu "ekki". Það er vissulega nafnorð í samhenginu "tregatár og ekki" en ekki í "ég er ekki viss". Huga þyrfti að frekari úrvinnslu gagna hvað þetta varðar.
