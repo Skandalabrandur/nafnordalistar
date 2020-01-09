@@ -34,3 +34,8 @@ Einnig þá bera þarf í huga einsleitni textarits þegar kemur að niðurstö�
 
 Ef þið lumið á íslenskum textaritum þá má endilega hafa samband: ordalistar@kurte.is
 
+# Ósíaðir listar
+
+Eru að mestu leiti eins og ofangreindir listar með þeirri undantekningu að ekki er síað eftir nafnorðum sérstaklega, þ.e, allir flokkar leyfilegir.
+
+Öll orð eru tekin í nefnifalli ef slíkt á við
